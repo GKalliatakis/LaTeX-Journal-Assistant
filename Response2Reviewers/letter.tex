@@ -1,0 +1,67 @@
+% Uncomment the following line to have comments hihglighted
+\documentclass[9pt,draft]{extarticle}
+% Uncomment the following line to disable comments and highlights
+% \documentclass[9pt,final]{extarticle}
+
+\input{addon/pkgloading-for-letter-to-reviewers.tex}
+\input{addon/commands-for-letter-to-reviewers}
+
+% Defines the path for the main output file (so as to cross-reference sections, figures, table there, by prepending "paper:" to the original label )
+\externaldocument[paper:]{../LNCS-skeleton/main}
+
+\def\PaperTitle{PaperTitleGoesHere}
+\def\PaperId{{PaperIDGoesHere}}
+\def\SpecialIssueId{SpecialIssueIDGoesHere}
+\def\Journal{{JournalGoesHere}}
+
+\def\AuthorsInLetter{AAAA AAAA, BBBB BBBB, CCCC CCCC, DDDD DDDD}
+
+
+%opening
+\title{\textbf{\PaperTitle} \\ {\Large Revision notes}}
+%
+%
+\author[1]{AAAA AAAA%
+  \thanks{Corresponding author \\
+    {\Letter}~{Affiliation goes here} \\
+    {\Email}~\texttt{\href{mailto:xxxx@xxxx.xxx.xxx}{xxxx@xxxx.xxx.xxx}} \\
+  }
+}
+%
+\author[2]{BBBB BBBB}
+%
+\author[3]{CCCC CCCC}
+%
+\author[4]{DDDD DDDD}
+%
+\affil[1]{1st Affiliation}
+\affil[2]{2nd Affiliation}
+\affil[3]{3rd Affiliation}
+\affil[4]{4th Affiliation}
+
+%
+\date{}
+\begin{document}
+
+\maketitle
+
+\input{intro}
+\vfill
+\input{manuscriptinfo}
+\vfill
+\pagebreak
+
+\input{revision-notes/guesteditor}
+
+%\SkipSpaceForReviewerComments
+
+\input{revision-notes/reviewer1}
+
+%\SkipSpaceForReviewerComments
+
+\input{revision-notes/reviewer2}
+
+%\SkipSpaceForReviewerComments
+
+
+\end{document}
