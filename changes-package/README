@@ -1,0 +1,9 @@
+The changes-package allows the user to manually markup changes of text, such as additions, deletions, or replacements.
+Changed text is shown in a different colour; deleted text is striked out.
+The package allows free defining of additional authors and their associated colour.
+It also allows you to change the markup of changes, authors, or annotations.
+
+Internet: http://changes.sourceforge.net/
+
+This material is subject to the LaTeX Project Public License (LPPL).
+For more please see the user documentation changes.english.pdf

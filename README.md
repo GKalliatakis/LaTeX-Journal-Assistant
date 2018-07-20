@@ -27,6 +27,21 @@ We use GitHub issues to track public bugs. Report a bug by opening a new issue; 
 #### Why this repo?
 Because every time I want to submit a new manuscript I need to search online (and spent hours) trying to find a good template for those accompanying documents !
 
-#### Little extra
+----
+#### Extra
+
+**The LaTeX changes package**
+
+The _changes LaTeX package_ provides manual change markup for LaTeX documents. The user enters changed text passages with special markup
+that is transformed into text with a special layout. The package provides a table of changes as well.
+The package is hosted on sourceforge, please feel free to participate by pointing out errors,
+making suggestions, providing a translation, or take part in the implementation.
+If you want to use the package, please use the sourceforge or ctan download, or install the package via your
+LaTeX distribution (such as MiKTeX, TeXLive etc.)
+
+A fine documentation is provided with the package, including a [manual](https://github.com/GKalliatakis/LaTeX-Journal-Assistant/blob/master/changes-package/changes.english.pdf) and an excessive amount of examples.
+
+
+**A4 template**
 Revising a manuscript can be a tricky situation with plenty of note-keeping required.
 [DotGridA4.pdf](https://github.com/GKalliatakis/LaTeX-Journal-Assistant/blob/master/DotGridA4.pdf) provides a useful A4 template that can be used for that puprose.
