@@ -29,4 +29,4 @@ Because every time I want to submit a new manuscript I need to search online (an
 
 #### Little extra
 Revising a manuscript can be a tricky situation with plenty of note-keeping required.
-[Dot Grid A4.pdf](https://github.com/GKalliatakis/LaTeX-Journal-Assistant/blob/master/Dot Grid A4.pdf) provides a useful A4 template that can be used for that puprose.
+[DotGridA4.pdf](https://github.com/GKalliatakis/LaTeX-Journal-Assistant/blob/master/DotGridA4.pdf) provides a useful A4 template that can be used for that puprose.
