@@ -28,7 +28,7 @@ We use GitHub issues to track public bugs. Report a bug by opening a new issue; 
 Because every time I want to submit a new manuscript I need to search online (and spent hours) trying to find a good template for those accompanying documents !
 
 ----
-### Extra
+### Bonus
 
 **The LaTeX changes package**
 
