@@ -26,3 +26,7 @@ We use GitHub issues to track public bugs. Report a bug by opening a new issue; 
 
 #### Why this repo?
 Because every time I want to submit a new manuscript I need to search online (and spent hours) trying to find a good template for those accompanying documents !
+
+#### Little extra
+Revising a manuscript can be a tricky situation with plenty of note-keeping required.
+[Dot Grid A4.pdf](https://github.com/GKalliatakis/LaTeX-Journal-Assistant/blob/master/Dot Grid A4.pdf) provides a useful A4 template that can be used for that puprose.
