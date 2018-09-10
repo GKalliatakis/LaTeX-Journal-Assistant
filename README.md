@@ -8,6 +8,7 @@ This repository contains code for the creating the following documents:
 
 - **Cover letter** (it can be used for the initial cover letter required during the submission process)
 - **Response letter** (it can be used for writting your responses to referees' reports)
+- **Keynote abstract** (it can be used for writting your keynote speech abstract)
 
 
 ### Preview
@@ -19,6 +20,8 @@ If you want to have a sneak peek at the documents before deciding to fork or clo
 ### Licensing
 - All code in this repository is under the MIT license as specified by the LICENSE file.
 - The current version of the response letter is based on the one released by [Claudio Di Ciccio](https://github.com/cdc08x/letter-2-reviewers-LaTeX-template)
+- The current version of the keynote speech abstract is based on the one released by [Overleaf](https://www.overleaf.com/latex/templates/simple-single-page-abstract-template/kwzyytrntryp#.W5YvdXWnFhF)
+
 
 #### Questions and Comments
 We use GitHub issues to track public bugs. Report a bug by opening a new issue; it's that easy!
@@ -28,6 +31,7 @@ We use GitHub issues to track public bugs. Report a bug by opening a new issue; 
 Because every time I want to submit a new manuscript I need to search online (and spent hours) trying to find a good template for those accompanying documents !
 
 ----
+
 ### Bonus
 
 **The LaTeX changes package**
