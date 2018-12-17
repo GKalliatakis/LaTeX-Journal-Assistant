@@ -47,6 +47,7 @@ A fine documentation is provided with the package, including a [manual](https://
 
 
 **A4 template**
+
 Revising a manuscript can be a tricky situation with plenty of note-keeping required.
 [DotGridA4.pdf](https://github.com/GKalliatakis/LaTeX-Journal-Assistant/blob/master/DotGridA4.pdf) provides a useful A4 template that can be used for that puprose.
 
