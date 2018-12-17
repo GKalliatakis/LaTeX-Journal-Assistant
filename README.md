@@ -49,3 +49,8 @@ A fine documentation is provided with the package, including a [manual](https://
 **A4 template**
 Revising a manuscript can be a tricky situation with plenty of note-keeping required.
 [DotGridA4.pdf](https://github.com/GKalliatakis/LaTeX-Journal-Assistant/blob/master/DotGridA4.pdf) provides a useful A4 template that can be used for that puprose.
+
+
+**HOW TO RESPOND TO PEER REVIEWERS’ COMMENTS**
+
+A [guide](https://dukekunshan.edu.cn/sites/default/files/u587/Lecutres%20Yamey%202017%20How%20to%20respond%20to%20reviewers%E2%80%99%20comments.pdf) on how to respond to peer reviewer's comments by Duke Kunshan University.
